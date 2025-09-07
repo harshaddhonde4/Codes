@@ -17,7 +17,7 @@ A collection of **C, C++, and Java programs** written to improve **logic-buildin
 * 🔢 **Basic Programs** → Numbers, Strings, Arrays
 * 🔄 **Sorting & Searching** → Bubble Sort, Binary Search, QuickSort
 * 🧮 **Mathematical Problems** → Factorials, Prime Numbers, Fibonacci
-* 🏗 **Data Structures** → Stack, Queue, Linked List, Trees
+* 🏗 **Data Structures** → Stack, Queue, Linked List
 
 
 ## ⚙️ Tech Stack
